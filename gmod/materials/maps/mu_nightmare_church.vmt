@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"		"maps/mu_nightmare_church"
+	"$ignorez"		1
+	"$vertexcolor" 		1
+	"$vertexalpha" 		1
+}

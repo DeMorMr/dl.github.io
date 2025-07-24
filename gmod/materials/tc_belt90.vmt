@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+        "$basetexture" "tc_belt90"
+        "Proxies"
+        {
+                "TextureScroll"
+                {
+                        "texturescrollvar" "$baseTextureTransform"
+                        "texturescrollrate" 3
+                        "texturescrollangle" 0
+                }
+        }
+}
