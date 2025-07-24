@@ -1,0 +1,15 @@
+/* AUTHOR BY DeMorMr  | https://github.com/DeMorMr*/
+body {background-color:#010101;;max-width:900px;margin:0 auto;padding:20px;font-family:Arial;}
+header {border:1px solid #ffffff;text-align:center;width:900px;height:70px;}
+header img{margin-top:5px;}
+.banner{background-image:url('banner.png');background-size:cover;background-position:center;background-repeat:no-repeat;transition:}
+
+footer{font-family:Arial;font-size:10px;text-align:center;padding-top:10px;color:grey;}
+a{text-decoration:none;color:#ffffff;}
+.unselectable {-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
+
+.information {width:880px;height:10px;overflow:hidden;position:relative;background:grey;padding:10px;border: 1px solid #ffffff;border-top:none;margin-top:10px;}
+.information-text {position:absolute;white-space:nowrap;animation:moveText 15s linear infinite;margin-top:-7px;color:white;}
+.information-text:hover{text-decoration:underline;}
+@keyframes moveText {0% { left: 100%; transform: translateX(0); }100% { left: 0; transform: translateX(-100%); }}
+/* AUTHOR BY DeMorMr  | https://github.com/DeMorMr*/
